@@ -1,0 +1,4 @@
+.navbar{
+    background-color: #00A94E; /* For browsers that do not support gradients */
+    background-image: linear-gradient(yellowgreen, #00A94E); /* Standard syntax (must be last) */
+}
