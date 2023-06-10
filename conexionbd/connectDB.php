@@ -2,10 +2,10 @@
 
 
 
-$localhost = "localhost";
+$localhost = "104.198.246.8";
 $username = "root";
-$password = "";
-$dbname = "fvzihtls_mc_andresbello";
+$password = "S0porte#3";
+$dbname = "micoleperu";
 
 class DBi {
 
